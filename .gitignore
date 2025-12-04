@@ -16,7 +16,8 @@ data/extracted/*
 !data/extracted/.gitkeep
 data/evaluation/*
 !data/evaluation/.gitkeep
-
+Historiographical_Divergence/.env
+Historiographical_Divergence/data/raw/*
 # IDE
 .vscode/
 .idea/
