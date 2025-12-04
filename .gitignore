@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Data (Ignore raw large files, keep structure)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+data/extracted/*
+!data/extracted/.gitkeep
+data/evaluation/*
+!data/evaluation/.gitkeep
+
+# IDE
+.vscode/
+.idea/
