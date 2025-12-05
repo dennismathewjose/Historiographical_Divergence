@@ -1,0 +1,599 @@
+[
+  {
+    "consistency_score": 20,
+    "classification": "Contradictory",
+    "reasoning": "The secondary source focuses on Lincoln's greatness and legacy, while the primary source discusses the political climate surrounding him during the 1860 election. The secondary source does not reflect the specific claims made by Lincoln in the primary source, and instead presents a hagiographic view of Lincoln that is not present in the primary source.",
+    "discrepancies": [
+      {
+        "claim": "Lincoln was held up as a dangerous radical and an enemy of the institutions of the South.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Lincoln's policies were unsettling to the commercial life of the country.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Lincoln feels constrained to make no declaration for the public.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Lincoln believes he has already stated his position in print.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Lincoln is not insensible to any commercial or financial depression that may exist.",
+        "type": "Omission",
+        "severity": "High"
+      }
+    ],
+    "event": "election_1860",
+    "primary_source": "loc_mal_0440500",
+    "secondary_source": "gutenberg_6812",
+    "historian": "John G. Nicolay and John Hay"
+  },
+  {
+    "consistency_score": 40,
+    "classification": "Contradictory",
+    "reasoning": "The secondary source focuses on the significance and aftermath of the 1860 election, while the primary source (Lincoln's letter) discusses his perception as a radical, the unsettling effect of his policies, his decision not to make public declarations, and his awareness of commercial depression. The secondary source does not reflect any of the claims made by Lincoln in the primary source.",
+    "discrepancies": [
+      {
+        "claim": "Lincoln was held up as a dangerous radical and an enemy of the institutions of the South.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Lincoln's policies were unsettling to the commercial life of the country.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Lincoln feels constrained to make no declaration for the public.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Lincoln believes he has already stated his position in print.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Lincoln is not insensible to any commercial or financial depression that may exist.",
+        "type": "Omission",
+        "severity": "High"
+      }
+    ],
+    "event": "election_1860",
+    "primary_source": "loc_mal_0440500",
+    "secondary_source": "gutenberg_6811",
+    "historian": "Henry Ketcham"
+  },
+  {
+    "consistency_score": 10,
+    "classification": "Contradictory",
+    "reasoning": "The secondary source discusses Lincoln's early life and career, while the primary source focuses on his feelings and constraints during the 1860 election. There is no overlap in the claims made by the two sources, and the secondary source does not reflect Lincoln's account of the election.",
+    "discrepancies": [
+      {
+        "claim": "Lincoln was held up as a dangerous radical and an enemy of the institutions of the South.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Lincoln's policies were unsettling to the commercial life of the country.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Lincoln feels constrained to make no declaration for the public.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Lincoln believes he has already stated his position in print.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Lincoln is not insensible to any commercial or financial depression that may exist.",
+        "type": "Omission",
+        "severity": "High"
+      }
+    ],
+    "event": "election_1860",
+    "primary_source": "loc_mal_0440500",
+    "secondary_source": "gutenberg_14004",
+    "historian": "None"
+  },
+  {
+    "consistency_score": 10,
+    "classification": "Contradictory",
+    "reasoning": "The secondary source does not discuss the same claims as the primary source. The secondary source focuses on Lincoln's biography and legacy, while the primary source discusses Lincoln's views and constraints during the election of 1860. The secondary source does not reflect Lincoln's account of the election.",
+    "discrepancies": [
+      {
+        "claim": "Lincoln was held up as a dangerous radical and an enemy of the institutions of the South.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Lincoln's policies were unsettling to the commercial life of the country.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Lincoln feels constrained to make no declaration for the public.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Lincoln believes he has already stated his position in print.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Lincoln is not insensible to any commercial or financial depression that may exist.",
+        "type": "Omission",
+        "severity": "High"
+      }
+    ],
+    "event": "election_1860",
+    "primary_source": "loc_mal_0440500",
+    "secondary_source": "gutenberg_18379",
+    "historian": "None"
+  },
+  {
+    "consistency_score": 10,
+    "classification": "Contradictory",
+    "reasoning": "The secondary source does not discuss the primary source at all. The secondary source discusses the authors' intentions for writing a biography of Lincoln, while the primary source discusses Lincoln's orders regarding Fort Sumter. The secondary source makes no claims about the primary source's claims.",
+    "discrepancies": [
+      {
+        "claim": "Robert S. Chew was instructed to proceed to Charleston, South Carolina.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Chew was ordered to seek an interview with Governor Pickens if the U.S. flag was flying over Fort Sumter and the Fort had not been attacked.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Chew was directed to notify Pickens that an attempt would be made to supply Fort Sumter with provisions only.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "The message stated that if the attempt to supply provisions was not resisted, no further effort to send men, arms, or ammunition would be made without notice.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Chew was ordered to return to Washington if Fort Sumter had already been evacuated, surrendered, or attacked.",
+        "type": "Omission",
+        "severity": "High"
+      }
+    ],
+    "event": "fort_sumter",
+    "primary_source": "loc_mal_0882800",
+    "secondary_source": "gutenberg_6812",
+    "historian": "John G. Nicolay and John Hay"
+  },
+  {
+    "consistency_score": 10,
+    "classification": "Contradictory",
+    "reasoning": "The secondary source does not discuss the specific claims made by Lincoln in the primary source regarding the instructions given to Robert S. Chew concerning Fort Sumter. Instead, the secondary source focuses on the broader context of the war and its connection to slavery and the Union, which are not mentioned in the primary source. The secondary source does not contain any information about the primary source's claims, and instead discusses other topics.",
+    "discrepancies": [
+      {
+        "claim": "Robert S. Chew was instructed to proceed to Charleston, South Carolina.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Chew was ordered to seek an interview with Governor Pickens if the U.S. flag was flying over Fort Sumter and the Fort had not been attacked.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Chew was directed to notify Pickens that an attempt would be made to supply Fort Sumter with provisions only.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "The message stated that if the attempt to supply provisions was not resisted, no further effort to send men, arms, or ammunition would be made without notice.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Chew was ordered to return to Washington if Fort Sumter had already been evacuated, surrendered, or attacked.",
+        "type": "Omission",
+        "severity": "High"
+      }
+    ],
+    "event": "fort_sumter",
+    "primary_source": "loc_mal_0882800",
+    "secondary_source": "gutenberg_6811",
+    "historian": "Henry Ketcham"
+  },
+  {
+    "consistency_score": 5,
+    "classification": "Contradictory",
+    "reasoning": "The secondary source discusses the political climate and motivations behind the Union's actions in 1861, particularly focusing on slavery and the preservation of the Union. The primary source details specific instructions given to Robert S. Chew regarding Fort Sumter. The secondary source does not mention Fort Sumter or Chew, and the primary source does not discuss the political motivations of the Union. The claims are entirely unrelated, and the secondary source does not accurately reflect Lincoln's account of the Fort Sumter situation.",
+    "discrepancies": [
+      {
+        "claim": "Robert S. Chew was instructed to proceed to Charleston, South Carolina.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Chew was ordered to seek an interview with Governor Pickens if the U.S. flag was flying over Fort Sumter and the Fort had not been attacked.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Chew was directed to notify Pickens that an attempt would be made to supply Fort Sumter with provisions only.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "The message stated that if the attempt to supply provisions was not resisted, no further effort to send men, arms, or ammunition would be made without notice.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Chew was ordered to return to Washington if Fort Sumter had already been evacuated, surrendered, or attacked.",
+        "type": "Omission",
+        "severity": "High"
+      }
+    ],
+    "event": "fort_sumter",
+    "primary_source": "loc_mal_0882800",
+    "secondary_source": "gutenberg_12801",
+    "historian": "John T. Morse, Jr."
+  },
+  {
+    "consistency_score": 0,
+    "classification": "Contradictory",
+    "reasoning": "The secondary source discusses Lincoln's biography and ancestry, while the primary source details instructions given to Robert S. Chew regarding Fort Sumter. The secondary source does not discuss the claims made in the primary source, and instead discusses unrelated information.",
+    "discrepancies": [
+      {
+        "claim": "Abraham Lincoln was born in a rude cabin in Kentucky in 1809.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Lincoln's ancestry can be traced to Samuel Lincoln of Norfolk County, England.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Lincoln's grandfather, Abraham Lincoln, was killed by Indians in Kentucky.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Nancy Hanks, Lincoln's mother, was gentle, refined, intelligent, and religious.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Lincoln inherited his tender spirit and pensive melancholy from his mother, Nancy Hanks.",
+        "type": "Omission",
+        "severity": "High"
+      }
+    ],
+    "event": "fort_sumter",
+    "primary_source": "loc_mal_0882800",
+    "secondary_source": "gutenberg_14004",
+    "historian": "Francis Fisher Browne"
+  },
+  {
+    "consistency_score": 10,
+    "classification": "Contradictory",
+    "reasoning": "The secondary source discusses general American political history and makes no mention of the specific event described in Lincoln's message regarding Fort Sumter. Therefore, the secondary source does not reflect Lincoln's account at all.",
+    "discrepancies": [
+      {
+        "claim": "Robert S. Chew was instructed to proceed to Charleston, South Carolina.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Chew was ordered to seek an interview with Governor Pickens if the U.S. flag was flying over Fort Sumter and the Fort had not been attacked.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Chew was directed to notify Pickens that an attempt would be made to supply Fort Sumter with provisions only.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "The message stated that if the attempt to supply provisions was not resisted, no further effort to send men, arms, or ammunition would be made without notice.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Chew was ordered to return to Washington if Fort Sumter had already been evacuated, surrendered, or attacked.",
+        "type": "Omission",
+        "severity": "High"
+      }
+    ],
+    "event": "fort_sumter",
+    "primary_source": "loc_mal_0882800",
+    "secondary_source": "gutenberg_18379",
+    "historian": "None"
+  },
+  {
+    "consistency_score": 10,
+    "classification": "Contradictory",
+    "reasoning": "The secondary source discusses the political climate and motivations behind the Civil War, particularly focusing on the preservation of the Union and the role of slavery. It does not mention the Gettysburg Address, the dedication of the battlefield, or the themes of equality and national rebirth that are central to Lincoln's speech. The secondary source focuses on the broader political context of the war's early years, while the primary source is a specific speech given at a pivotal moment in the war. The secondary source does not reflect the content, tone, or purpose of Lincoln's Gettysburg Address.",
+    "discrepancies": [
+      {
+        "claim": "The nation was founded on the principle that all men are created equal.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "The Civil War is a test of whether a nation founded on liberty can endure.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "The battlefield is dedicated as a final resting place for soldiers who died to preserve the nation.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "The actions of the soldiers at Gettysburg have consecrated the ground more than any dedication ceremony could.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "The living must dedicate themselves to the cause for which the soldiers gave their lives.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "The nation should have a new birth of freedom.",
+        "type": "Omission",
+        "severity": "High"
+      }
+    ],
+    "event": "gettysburg",
+    "primary_source": "loc_unknown",
+    "secondary_source": "gutenberg_12801",
+    "historian": "John T. Morse, Jr."
+  },
+  {
+    "consistency_score": 0,
+    "classification": "Contradictory",
+    "reasoning": "The secondary source discusses Lincoln's biography and early life, while the primary source is Lincoln's Gettysburg Address. The secondary source does not discuss the claims made in the primary source, and vice versa. Therefore, the secondary source does not accurately reflect Lincoln's account of the Gettysburg Address.",
+    "discrepancies": [
+      {
+        "claim": "The nation was founded on the principle that all men are created equal.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "The Civil War is a test of whether a nation founded on liberty can endure.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "The battlefield is dedicated as a final resting place for soldiers who died to preserve the nation.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "The actions of the soldiers at Gettysburg have consecrated the ground more than any dedication ceremony could.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "The living must dedicate themselves to the cause for which the soldiers gave their lives.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "The nation should have a new birth of freedom.",
+        "type": "Omission",
+        "severity": "High"
+      }
+    ],
+    "event": "gettysburg",
+    "primary_source": "loc_unknown",
+    "secondary_source": "gutenberg_14004",
+    "historian": "None"
+  },
+  {
+    "consistency_score": 10,
+    "classification": "Contradictory",
+    "reasoning": "The secondary source discusses Lincoln's biography and personal life, while the primary source is Lincoln's Gettysburg Address, which focuses on the Civil War, the nation's founding principles, and the sacrifices made by soldiers. The secondary source does not address any of the claims made in Lincoln's Gettysburg Address, resulting in a complete disconnect between the two sources.",
+    "discrepancies": [
+      {
+        "claim": "The nation was founded on the principle that all men are created equal.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "The Civil War is a test of whether a nation founded on liberty can endure.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "The battlefield is dedicated as a final resting place for soldiers who died to preserve the nation.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "The actions of the soldiers at Gettysburg have consecrated the ground more than any dedication ceremony could.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "The living must dedicate themselves to the cause for which the soldiers gave their lives.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "The nation should have a new birth of freedom.",
+        "type": "Omission",
+        "severity": "High"
+      }
+    ],
+    "event": "gettysburg",
+    "primary_source": "loc_unknown",
+    "secondary_source": "gutenberg_18379",
+    "historian": "None"
+  },
+  {
+    "consistency_score": 15,
+    "classification": "Contradictory",
+    "reasoning": "The secondary source does not discuss the claims made in Lincoln's second inaugural address. Instead, it focuses on Lincoln's character and legacy, which are not addressed in the primary source excerpt. The secondary source is a eulogy, while the primary source is a speech about the Civil War.",
+    "discrepancies": [
+      {
+        "claim": "Lincoln's second inaugural address was shorter than his first due to the constant public declarations made during the preceding four years of the Civil War.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Both the Union and the Confederacy initially sought to avoid war, but ultimately one side preferred war to the nation's survival, and the other accepted war rather than let the nation perish.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Slavery was understood to be the cause of the war, with the Confederacy aiming to expand it and the Union seeking to restrict its territorial growth.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Neither side anticipated the war's magnitude or duration, expecting easier victories and less profound outcomes.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Lincoln suggests the war may be divine punishment for the offense of slavery, affecting both North and South.",
+        "type": "Omission",
+        "severity": "High"
+      }
+    ],
+    "event": "second_inaugural",
+    "primary_source": "loc_mal_4361300",
+    "secondary_source": "gutenberg_6812",
+    "historian": "John G. Nicolay and John Hay"
+  },
+  {
+    "consistency_score": 10,
+    "classification": "Contradictory",
+    "reasoning": "The secondary source does not discuss the second inaugural address or the Civil War. It focuses on Lincoln's early life and career, and the events leading up to his nomination for president. Therefore, it does not reflect Lincoln's account of the second inaugural address or the Civil War.",
+    "discrepancies": [
+      {
+        "claim": "Lincoln's second inaugural address was shorter than his first due to the constant public declarations made during the preceding four years of the Civil War.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Both the Union and the Confederacy initially sought to avoid war, but ultimately one side preferred war to the nation's survival, and the other accepted war rather than let the nation perish.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Slavery was understood to be the cause of the war, with the Confederacy aiming to expand it and the Union seeking to restrict its territorial growth.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Neither side anticipated the war's magnitude or duration, expecting easier victories and less profound outcomes.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Lincoln suggests the war may be divine punishment for the offense of slavery, affecting both North and South.",
+        "type": "Omission",
+        "severity": "High"
+      }
+    ],
+    "event": "second_inaugural",
+    "primary_source": "loc_mal_4361300",
+    "secondary_source": "gutenberg_6811",
+    "historian": "None"
+  },
+  {
+    "consistency_score": 15,
+    "classification": "Contradictory",
+    "reasoning": "The secondary source focuses on the political and military actions surrounding slavery and emancipation during the Civil War, while the primary source (Lincoln's Second Inaugural Address) reflects on the causes and potential divine judgment related to the war and slavery. The secondary source does not address the specific claims made in Lincoln's address, and instead presents a different set of claims related to the actions of the Union army, generals, Congress, and Lincoln himself regarding slavery. The tone is also different, with the primary source being reverent and the secondary source being objective.",
+    "discrepancies": [
+      {
+        "claim": "Lincoln's second inaugural address was shorter than his first due to the constant public declarations made during the preceding four years of the Civil War.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Both the Union and the Confederacy initially sought to avoid war, but ultimately one side preferred war to the nation's survival, and the other accepted war rather than let the nation perish.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Slavery was understood to be the cause of the war, with the Confederacy aiming to expand it and the Union seeking to restrict its territorial growth.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Neither side anticipated the war's magnitude or duration, expecting easier victories and less profound outcomes.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Lincoln suggests the war may be divine punishment for the offense of slavery, affecting both North and South.",
+        "type": "Omission",
+        "severity": "High"
+      }
+    ],
+    "event": "second_inaugural",
+    "primary_source": "loc_mal_4361300",
+    "secondary_source": "gutenberg_12801",
+    "historian": "John T. Morse, Jr."
+  },
+  {
+    "consistency_score": 10,
+    "classification": "Contradictory",
+    "reasoning": "The secondary source focuses on Lincoln's character and legacy, while the primary source discusses the causes and consequences of the Civil War, including slavery and divine judgment. The secondary source does not address any of the specific claims made in Lincoln's Second Inaugural Address. The tone is similar, but the content is completely different.",
+    "discrepancies": [
+      {
+        "claim": "Lincoln's second inaugural address was shorter than his first due to the constant public declarations made during the preceding four years of the Civil War.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Both the Union and the Confederacy initially sought to avoid war, but ultimately one side preferred war to the nation's survival, and the other accepted war rather than let the nation perish.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Slavery was understood to be the cause of the war, with the Confederacy aiming to expand it and the Union seeking to restrict its territorial growth.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Neither side anticipated the war's magnitude or duration, expecting easier victories and less profound outcomes.",
+        "type": "Omission",
+        "severity": "High"
+      },
+      {
+        "claim": "Lincoln suggests the war may be divine punishment for the offense of slavery, affecting both North and South.",
+        "type": "Omission",
+        "severity": "High"
+      }
+    ],
+    "event": "second_inaugural",
+    "primary_source": "loc_mal_4361300",
+    "secondary_source": "gutenberg_14004",
+    "historian": "None"
+  },
+  {
+    "event": "second_inaugural",
+    "primary_source": "loc_mal_4361300",
+    "secondary_source": "gutenberg_18379",
+    "historian": "None"
+  }
+]

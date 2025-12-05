@@ -1,0 +1,13 @@
+{
+  "self_consistency": {
+    "mean": 20.0,
+    "std_dev": 0.0,
+    "variance": 0.0
+  },
+  "inter_rater_kappa": 0.6153846153846154,
+  "sample_scores": [
+    20,
+    20,
+    20
+  ]
+}

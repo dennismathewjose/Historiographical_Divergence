@@ -1,0 +1,688 @@
+[
+  {
+    "event": "election_1860",
+    "author": "Abraham Lincoln",
+    "claims": [
+      "Lincoln was held up as a dangerous radical and an enemy of the institutions of the South.",
+      "Lincoln's policies were unsettling to the commercial life of the country.",
+      "Lincoln feels constrained to make no declaration for the public.",
+      "Lincoln believes he has already stated his position in print.",
+      "Lincoln is not insensible to any commercial or financial depression that may exist."
+    ],
+    "temporal_details": {
+      "date": "1860-11-10",
+      "time": "00:01"
+    },
+    "tone": "objective",
+    "source_id": "loc_mal_0440500",
+    "source_type": "Letter"
+  },
+  {
+    "event": "election_1860",
+    "author": "Abraham Lincoln",
+    "claims": [
+      "Robert S. Chew, a clerk in the State Department, traveled to Charleston, S.C.",
+      "Chew left Washington on April 6th, 1861, and arrived in Charleston on April 8th, 1861.",
+      "Chew was ordered to notify Governor Pickens that an attempt would be made to supply Fort Sumter with provisions only.",
+      "The message stated that if the attempt to supply provisions was not resisted, no further effort to send men, arms, or ammunition would be made without notice.",
+      "Chew was instructed not to seek an interview with Governor Pickens if Fort Sumter had already been evacuated, surrendered, or attacked."
+    ],
+    "temporal_details": {
+      "date": "1861-04-08",
+      "time": "18:00"
+    },
+    "tone": "objective",
+    "source_id": "loc_mal_0882800",
+    "source_type": "Letter"
+  },
+  {
+    "event": "fort_sumter",
+    "author": "Abraham Lincoln",
+    "claims": [
+      "Robert S. Chew was instructed to proceed to Charleston, South Carolina.",
+      "Chew was ordered to seek an interview with Governor Pickens if the U.S. flag was flying over Fort Sumter and the Fort had not been attacked.",
+      "Chew was directed to notify Pickens that an attempt would be made to supply Fort Sumter with provisions only.",
+      "The message stated that if the attempt to supply provisions was not resisted, no further effort to send men, arms, or ammunition would be made without notice.",
+      "Chew was ordered to return to Washington if Fort Sumter had already been evacuated, surrendered, or attacked."
+    ],
+    "temporal_details": {
+      "date": "1861-04-08",
+      "time": "18:00"
+    },
+    "tone": "objective",
+    "source_id": "loc_mal_0882800",
+    "source_type": "Letter"
+  },
+  {
+    "event": "election_1860",
+    "author": "Abraham Lincoln",
+    "claims": [
+      "The nation was founded on the principle that all men are created equal.",
+      "The Civil War is a test of whether a nation founded on such principles can endure.",
+      "The soldiers who died at Gettysburg gave their lives so that the nation might live.",
+      "The living should dedicate themselves to the cause for which the soldiers died.",
+      "The nation should have a new birth of freedom."
+    ],
+    "temporal_details": {
+      "date": null,
+      "time": null
+    },
+    "tone": "reverent",
+    "source_id": "loc_unknown",
+    "source_type": "Speech"
+  },
+  {
+    "event": "gettysburg",
+    "author": "Abraham Lincoln",
+    "claims": [
+      "The nation was founded on the principle that all men are created equal.",
+      "The Civil War is a test of whether a nation founded on liberty can endure.",
+      "The battlefield is dedicated as a final resting place for soldiers who died to preserve the nation.",
+      "The actions of the soldiers at Gettysburg have consecrated the ground more than any dedication ceremony could.",
+      "The living must dedicate themselves to the cause for which the soldiers gave their lives.",
+      "The nation should have a new birth of freedom."
+    ],
+    "temporal_details": {
+      "date": "1863-11-19",
+      "time": "14:00"
+    },
+    "tone": "reverent",
+    "source_id": "loc_unknown",
+    "source_type": "Speech"
+  },
+  {
+    "event": "second_inaugural",
+    "author": "Abraham Lincoln",
+    "claims": [
+      "Lincoln's second inaugural address was shorter than his first due to the constant public declarations made during the preceding four years of the Civil War.",
+      "Both the Union and the Confederacy initially sought to avoid war, but ultimately one side preferred war to the nation's survival, and the other accepted war rather than let the nation perish.",
+      "Slavery was understood to be the cause of the war, with the Confederacy aiming to expand it and the Union seeking to restrict its territorial growth.",
+      "Neither side anticipated the war's magnitude or duration, expecting easier victories and less profound outcomes.",
+      "Lincoln suggests the war may be divine punishment for the offense of slavery, affecting both North and South."
+    ],
+    "temporal_details": {
+      "date": "1865-03-04",
+      "time": "12:00"
+    },
+    "tone": "reverent",
+    "source_id": "loc_mal_4361300",
+    "source_type": "Speech"
+  },
+  {
+    "event": "election_1860",
+    "author": "John G. Nicolay and John Hay",
+    "claims": [
+      "Abraham Lincoln's contemporaries almost universally considered him the greatest man of his time due to his character and achievements.",
+      "Tradition has solidified Lincoln's fame, despite the relatively short time since his assassination.",
+      "Lincoln is hailed as the liberator of an enfranchised race and the savior of the republic during its darkest hour.",
+      "The authors aim to present the truth about Lincoln's life and times to a new generation.",
+      "The authors had intimate knowledge of Lincoln before his presidency, accompanying him from Illinois to Washington and remaining in his service until his death."
+    ],
+    "temporal_details": {
+      "date": "1860-01-01",
+      "time": "00:00"
+    },
+    "tone": "reverent",
+    "source_id": "gutenberg_6812",
+    "source_type": "Book"
+  },
+  {
+    "event": "fort_sumter",
+    "author": "John G. Nicolay and John Hay",
+    "claims": [
+      "The young men born since Sumter was fired on have a right to all their elders know of the important events they came too late to share in.",
+      "The life and fame of Lincoln will not have their legitimate effect of instruction and example unless the circumstances among which he lived and found his opportunities are placed in their true light before the men who never saw him.",
+      "The authors aimed to write a sufficiently full and absolutely honest history of a great man and a great time.",
+      "The authors have devoted twenty years of almost unremitting assiduity to this work."
+    ],
+    "temporal_details": {
+      "date": null,
+      "time": null
+    },
+    "tone": "objective",
+    "source_id": "gutenberg_6812",
+    "source_type": "Book"
+  },
+  {
+    "event": "second_inaugural",
+    "author": "John G. Nicolay and John Hay",
+    "claims": [
+      "Abraham Lincoln was incomparably the greatest man of his time due to certain high traits of character.",
+      "The deliberate judgment of those who knew him has hardened into tradition.",
+      "The blessings of an enfranchised race would forever hail him as their liberator.",
+      "The nation would acknowledge him as the mighty counselor whose patient courage and wisdom saved the life of the republic in its darkest hour.",
+      "There would forever shine around his memory the halo of that tender humanity and Christian charity in which he walked among his fellow-countrymen as their familiar companion and friend."
+    ],
+    "temporal_details": {
+      "date": null,
+      "time": null
+    },
+    "tone": "reverent",
+    "source_id": "gutenberg_6812",
+    "source_type": "Book"
+  },
+  {
+    "event": "assassination",
+    "author": "John G. Nicolay and John Hay",
+    "claims": [
+      "Abraham Lincoln's tragic death saddened many who sympathized with his aspirations and labored with him.",
+      "Contemporaries considered Lincoln incomparably the greatest man of his time due to his high character and momentous achievements.",
+      "The tradition of Lincoln's greatness is already complete, despite only twenty-five years having passed since his assassination.",
+      "Lincoln is hailed as the liberator of an enfranchised race and the counselor who saved the republic.",
+      "Lincoln's memory is illuminated by his tender humanity and Christian charity."
+    ],
+    "temporal_details": {
+      "date": null,
+      "time": null
+    },
+    "tone": "reverent",
+    "source_id": "gutenberg_6812",
+    "source_type": "Book"
+  },
+  {
+    "event": "election_1860",
+    "author": "Henry Ketcham",
+    "claims": [
+      "The nomination of 1860 was a significant event in Lincoln's life.",
+      "The election of 1860 was a turning point in American history.",
+      "The election of 1860 led to a period of uncertainty and tension.",
+      "The election of 1860 was followed by Lincoln's journey to Washington.",
+      "The election of 1860 was followed by Lincoln's inauguration."
+    ],
+    "temporal_details": {
+      "date": "1860-01-01",
+      "time": "00:00"
+    },
+    "tone": "objective",
+    "source_id": "gutenberg_6811",
+    "source_type": "Book"
+  },
+  {
+    "event": "fort_sumter",
+    "author": "Henry Ketcham",
+    "claims": [
+      "The book mentions Fort Sumter as a chapter title, indicating its importance in the context of Abraham Lincoln's life and presidency.",
+      "The book dedicates itself to the author's brothers who served under Abraham Lincoln during the war for the perpetuation of the Union.",
+      "The book mentions the war was for the destruction of slavery."
+    ],
+    "temporal_details": {
+      "date": null,
+      "time": null
+    },
+    "tone": "objective",
+    "source_id": "gutenberg_6811",
+    "source_type": "Book"
+  },
+  {
+    "event": "second_inaugural",
+    "author": "None",
+    "claims": [
+      "Lincoln was known for his honesty, earning him the nickname \"honest Abe.\"",
+      "Lincoln once walked a considerable distance to return a small amount of money he had overcharged a customer.",
+      "Lincoln once rubbed smartweed in a ruffian's face for using vulgar language in front of women.",
+      "Lincoln and Berry bought out multiple stores in New Salem, eventually monopolizing the mercantile business.",
+      "Lincoln was left with a collection of promissory notes after a failed mercantile venture and the disappearance of the Trent brothers.",
+      "Lincoln paid off his debts, including interest, over fifteen years, referring to it as \"the national debt.\"",
+      "Lincoln volunteered for the Black Hawk War and was elected captain of his company.",
+      "Lincoln satirized General Cass's alleged military service during the Black Hawk War while in Congress.",
+      "Lincoln was appointed postmaster at New Salem, primarily valuing the position for access to newspapers.",
+      "Lincoln was appointed as a government surveyor due to the high demand and his perceived ability to learn quickly.",
+      "Lincoln's surveys were never called into question, highlighting his thoroughness.",
+      "Lincoln was engaged to Ann Rutledge, whose death deeply affected him and caused him significant grief.",
+      "Lincoln entered politics at the age of twenty-three in 1832.",
+      "Lincoln was defeated in his first election due to lack of familiarity in outlying regions.",
+      "Lincoln was elected to the legislature in 1834 and served for eight years.",
+      "Lincoln played a key role in moving the capital of Illinois to Springfield.",
+      "Lincoln and Stone protested pro-slavery resolutions in the legislature, citing injustice and bad policy.",
+      "Lincoln made a speech criticizing his opponent Forquer for changing his politics and erecting a lightning rod over his house.",
+      "Lincoln was defeated in his first attempt to be elected to congress in 1842.",
+      "Lincoln was elected to Congress in 1846, defeating Peter Cartwright.",
+      "Lincoln introduced the \"spot resolutions\" in Congress, questioning the president's claims about the start of the Mexican War.",
+      "Lincoln advised a young law student to \"Work, work, work is the main thing.\"",
+      "Lincoln left his law practice to study Euclid in order to understand the meaning of \"demonstrate.\"",
+      "Lincoln's favorite books included the Bible, Aesop's Fables, Pilgrim's Progress, Burns, and Shakespeare.",
+      "Lincoln mastered English grammar in six days with the help of Mentor Graham.",
+      "Lincoln read Blackstone's \"Commentaries\" after finding it in an old barrel he bought.",
+      "Lincoln was admitted to the bar in 1837 and became a partner of Stuart in Springfield.",
+      "Lincoln returned to law practice with renewed vigor after his term in Congress.",
+      "Lincoln moved to Springfield with only a pair of saddlebags and a few clothes, relying on credit from Joshua Speed.",
+      "Lincoln's professional duties were in the Eighth Judicial Circuit, which comprised fifteen counties.",
+      "Lincoln's anecdotes were known for their resistless fun and their appropriateness.",
+      "Lincoln never charged large fees and once returned half of an agreed-upon fee to a client.",
+      "Lincoln won a case for the Illinois Central Railroad but had to sue them to get a fair fee.",
+      "Lincoln always went to the heart of a case and avoided quibbles.",
+      "Lincoln put his conscience into his legal practice and would not take unfair advantage.",
+      "Lincoln refused to take a case that would distress a widowed mother and her children.",
+      "Lincoln was involved in the McCormick case, working with Edwin M. Stanton and against Reverdy Johnson.",
+      "Lincoln helped a free negro who was arrested in New Orleans and risked being sold into slavery.",
+      "Lincoln was sociable and enjoyed being among men, entertaining them with his humor and stories.",
+      "Lincoln was not ambitious and did not realize his importance to the community.",
+      "Lincoln was nominated for vice-president at the first republican convention in 1856.",
+      "Lincoln asked Douglas the fatal question at Freeport, killing off Douglas's aspirations for the presidency.",
+      "Lincoln vaguely desired the nomination for the vice-presidency in 1860.",
+      "Reports of the Lincoln-Douglas debates produced a profound sensation in the West.",
+      "Lincoln followed Douglas to Ohio and answered his speeches in Columbus and Cincinnati.",
+      "Henry Ward Beecher invited Lincoln to lecture in Plymouth Church, Brooklyn.",
+      "Lincoln spoke in Cooper Institute, New York, instead of Beecher's church.",
+      "Lincoln took the utmost care in revising his speech for Cooper Institute.",
+      "Lincoln's personal appearance was neglected for the Cooper Institute speech.",
+      "Lincoln's speech at Cooper Institute was strictly intellectual from beginning to end.",
+      "Lincoln's speech at Cooper Institute placed him in the line of the presidency.",
+      "Lincoln visited Exeter, N.H., to visit his son and made several speeches.",
+      "Lincoln was looked on with marked favor in all that portion of the country which lies north of Mason and Dixon's line.",
+      "The plan of secession and of setting up a Southern nation founded upon slavery, was not a sudden or impromptu thought.",
+      "The slave power was not content with any limitation whatever.",
+      "The southern leaders' first purpose was to defeat Douglas at the democratic convention in Charleston.",
+      "The southern delegates withdrew from the convention and appointed a convention of their own to be held in Richmond.",
+      "Lincoln had no aspirations for the presidency up to this point.",
+      "Lincoln accepted his defeat by Douglas in 1858 as only temporary.",
+      "Lincoln was glad of any possible prominence in the Chicago convention.",
+      "Lincoln declared, \"I must in all candor say that I do not think myself fit for the presidency.\"",
+      "Lincoln's candidacy developed in February and came to ahead at the republican state convention at Decatur.",
+      "Lincoln was greeted with an outburst of enthusiasm at the republican state convention at Decatur.",
+      "A banner was borne up the hall upon two old fence rails at the republican state convention at Decatur.",
+      "The incident was the means of enlarging the soubriquet \"Honest Abe\" to \"Honest Old Abe, the Rail-splitter.\"",
+      "The democratic convention had, after the bolt of the extreme southerners, adjourned to Baltimore, where they duly nominated Douglas.",
+      "Lincoln grasped the situation and serenely awaited the result.",
+      "The second republican national convention met in Chicago, May 16, 1860.",
+      "William H. Seward, of New York, was, far and away, the most prominent candidate for the nomination.",
+      "Lincoln had the full delegation of Illinois, who, at Decatur, had been instructed to vote for him as \"the first and only choice\" of the state.",
+      "The only point against Seward was his inability to carry certain doubtful states.",
+      "Lincoln's popularity in three of the four states named singled him out as the rival of Seward.",
+      "Seward's friends had taken to Chicago a small army of claquers.",
+      "Lincoln's friends planned to beat their rivals at their own game.",
+      "Leonard Swett describes the result of the plan.",
+      "A dramatic scene had occurred at the adoption of the platform."
+    ],
+    "temporal_details": {
+      "date": null,
+      "time": null
+    },
+    "tone": "objective",
+    "source_id": "gutenberg_6811",
+    "source_type": "Book"
+  },
+  {
+    "event": "fort_sumter",
+    "author": "John T. Morse, Jr.",
+    "claims": [
+      "During the spring and summer of 1861, the people of the North appeared politically united, emphasizing the importance of the Union.",
+      "President Lincoln and shrewd patriots took great pains to maintain the appearance of Northern unity, which helped fill the armies and the Treasury.",
+      "The demand arose to explain why the Union was in question, revealing that disunion was due to slavery.",
+      "Fighting for the integrity of the country also meant fighting for the destruction of slavery, creating political divisions.",
+      "In the extra session of Congress in July 1861, John J. Crittenden offered a resolution pledging that the war was not for oppression or subjugation, but to maintain the Constitution and preserve the Union."
+    ],
+    "temporal_details": {
+      "date": "1861-04-12",
+      "time": "04:30"
+    },
+    "tone": "objective",
+    "source_id": "gutenberg_12801",
+    "source_type": "Book"
+  },
+  {
+    "event": "gettysburg",
+    "author": "John T. Morse, Jr.",
+    "claims": [
+      "During the spring and summer of 1861, the people of the North appeared as a great political unit focused on preserving the Union.",
+      "President Lincoln and shrewd patriots maintained this unity to fill the armies and the Treasury, postponing many jeopardies.",
+      "The demand arose to explain why the Union was in question, revealing that disunion stemmed from slavery.",
+      "Fighting for the integrity of the country also meant fighting for the destruction of slavery, creating political divisions.",
+      "In the Border States, a considerable proportion of the people was both pro-slavery and pro-Union."
+    ],
+    "temporal_details": {
+      "date": "1861-01-01",
+      "time": "00:00"
+    },
+    "tone": "objective",
+    "source_id": "gutenberg_12801",
+    "source_type": "Book"
+  },
+  {
+    "event": "second_inaugural",
+    "author": "John T. Morse, Jr.",
+    "claims": [
+      "The Union armies ran against slavery immediately, creating a severe handicap for the North as slaves at Manassas were doing labor that freed up Southern soldiers.",
+      "General Butler's refusal to return fugitive slaves at Fortress Monroe in May 1861, based on the 'contraband of war' argument, became popular and underlay the Emancipation Proclamation.",
+      "Slaves themselves forced the issue of emancipation by seeking refuge in Union camps, regardless of politics and diplomacy.",
+      "Generals Fremont and Hunter issued orders freeing slaves in their respective commands, but President Lincoln revoked these orders, reserving the power to declare emancipation to himself.",
+      "Congress passed several acts in 1862 that reflected hostility towards slavery, including measures concerning slaves in the District of Columbia, fugitive slaves, and the confiscation of rebel property.",
+      "President Lincoln suggested a policy of voluntary action by slave states, compensation of owners, and colonization of freedmen, but Congress did not embody this policy in its legislation.",
+      "Lincoln's plan for compensated emancipation and colonization was regarded as visionary by many, but it highlighted his magnanimity and certain limitations of his intellect."
+    ],
+    "temporal_details": {
+      "date": "1861-05-01",
+      "time": "00:00"
+    },
+    "tone": "objective",
+    "source_id": "gutenberg_12801",
+    "source_type": "Book"
+  },
+  {
+    "event": "assassination",
+    "author": "None",
+    "claims": [
+      "Chapter XIII discusses the fall of Richmond and the assassination of President Lincoln.",
+      "The book includes a chapter dedicated to the assassination of President Lincoln.",
+      "The assassination is mentioned as the end of a series of events, following the fall of Richmond."
+    ],
+    "temporal_details": {
+      "date": null,
+      "time": null
+    },
+    "tone": "objective",
+    "source_id": "gutenberg_12801",
+    "source_type": "Book"
+  },
+  {
+    "event": "election_1860",
+    "author": "None",
+    "claims": [
+      "Abraham Lincoln was born in a rude cabin in Kentucky in 1809.",
+      "Lincoln's ancestry can be traced to Samuel Lincoln of Norfolk County, England.",
+      "Lincoln's grandfather, Abraham Lincoln, moved to Kentucky in 1782 and was killed by Indians.",
+      "Thomas Lincoln married Nancy Hanks, and they had a son named Abraham Lincoln.",
+      "Nancy Hanks was a refined and intelligent woman who taught Abraham Lincoln to read and write.",
+      "Thomas Lincoln moved his family to Indiana in 1816.",
+      "Dennis Hanks, a cousin of Abraham Lincoln, taught him to read, write, and cipher.",
+      "Lincoln's first reading book was Webster's Speller.",
+      "Lincoln borrowed the Life of Washington and the Speeches of Henry Clay, which had a powerful influence on him.",
+      "Lincoln's mother died when he was young, and he grieved deeply over her death.",
+      "Lincoln's step-mother, Sarah Johnston, provided devoted care during his childhood and youth.",
+      "Lincoln attended schools taught by Azel Dorsey and Andrew Crawford.",
+      "Lincoln wrote compositions against cruelty to animals.",
+      "At the age of fourteen, Lincoln taught himself to write and cipher.",
+      "Lincoln read everything he could lay his hands on and kept a scrap-book of things that pleased him.",
+      "Lincoln earned his first dollar by taking two men and their trunks to a steamer.",
+      "Lincoln had an instinctive feeling that he would one day attain an exalted position.",
+      "In March 1828, Lincoln went to work for old Mr. Gentry and accompanied his son Allen on a trip to New Orleans.",
+      "In 1830, Thomas Lincoln moved his family to Macon County, Illinois.",
+      "Lincoln worked with his father to build a log cabin and fence in the new land.",
+      "Lincoln worked as a clerk in a store owned by Mr. Denton Offutt.",
+      "While working at Offutt's store, Lincoln began studying English grammar.",
+      "Lincoln was known for his skill in athletic sports.",
+      "Lincoln was given the nickname \"Honest Abe\" for his integrity.",
+      "In the summer of 1831, Lincoln performed his first official act as a clerk at the polls.",
+      "In the spring of 1832, Lincoln's career took a new turn when he joined the Black Hawk War."
+    ],
+    "temporal_details": {
+      "date": "1809-02-12",
+      "time": "00:00"
+    },
+    "tone": "objective",
+    "source_id": "gutenberg_14004",
+    "source_type": "Book"
+  },
+  {
+    "event": "fort_sumter",
+    "author": "Francis Fisher Browne",
+    "claims": [
+      "Abraham Lincoln was born in a rude cabin in Kentucky in 1809.",
+      "Lincoln's ancestry can be traced to Samuel Lincoln of Norfolk County, England.",
+      "Lincoln's grandfather, Abraham Lincoln, was killed by Indians in Kentucky.",
+      "Nancy Hanks, Lincoln's mother, was gentle, refined, intelligent, and religious.",
+      "Lincoln inherited his tender spirit and pensive melancholy from his mother, Nancy Hanks."
+    ],
+    "temporal_details": {
+      "date": "1809-02-12",
+      "time": "00:00"
+    },
+    "tone": "reverent",
+    "source_id": "gutenberg_14004",
+    "source_type": "Book"
+  },
+  {
+    "event": "gettysburg",
+    "author": "None",
+    "claims": [
+      "Abraham Lincoln was born in a rude cabin in Kentucky in 1809.",
+      "Lincoln's ancestry can be traced back to Samuel Lincoln of Norfolk County, England.",
+      "Lincoln's grandfather, Abraham Lincoln, was killed by Indians in Kentucky.",
+      "Nancy Hanks, Lincoln's mother, was a gentle and refined woman who taught him to read and write.",
+      "Thomas Lincoln moved his family to Indiana in 1816.",
+      "Dennis Hanks, Lincoln's cousin, claimed to have taught him to read, write, and cipher.",
+      "Lincoln's first reading book was Webster's Speller.",
+      "Lincoln borrowed Weems's Life of Washington and read it with great earnestness.",
+      "Lincoln worked on a flatboat going down the Mississippi River.",
+      "Lincoln invented and patented a device for overcoming difficulties in the navigation of western rivers.",
+      "Lincoln worked as a clerk in Offutt's store in New Salem.",
+      "Lincoln acquired the nickname \"Honest Abe\" due to his integrity.",
+      "Lincoln performed his first official act as a clerk at the polls in New Salem in 1831.",
+      "Lincoln was elected Captain of Volunteers during the Black Hawk War."
+    ],
+    "temporal_details": {
+      "date": "1809-02-12",
+      "time": "00:00"
+    },
+    "tone": "objective",
+    "source_id": "gutenberg_14004",
+    "source_type": "Book"
+  },
+  {
+    "event": "second_inaugural",
+    "author": "None",
+    "claims": [
+      "Abraham Lincoln was seen as a shepherd of mankind who loved his charge but did not love to lead.",
+      "Lincoln's wisdom and sincerity were valued over outward grace.",
+      "Lincoln's fame would endure like a tower, witnessed by future generations.",
+      "Lincoln was viewed as a kindly, earnest, brave, and foreseeing man.",
+      "Lincoln was considered a new birth of the new soil, the first American."
+    ],
+    "temporal_details": {
+      "date": null,
+      "time": null
+    },
+    "tone": "reverent",
+    "source_id": "gutenberg_14004",
+    "source_type": "Book"
+  },
+  {
+    "event": "assassination",
+    "author": "None",
+    "claims": [
+      "Abraham Lincoln was born in a rude cabin in Kentucky in 1809.",
+      "Lincoln's ancestry can be traced back to Samuel Lincoln of Norfolk County, England.",
+      "Lincoln's grandfather, Abraham Lincoln, moved to Kentucky in 1782 and was killed by Indians.",
+      "Thomas Lincoln married Nancy Hanks, who was of English descent.",
+      "Nancy Hanks was gentle, refined, intelligent, and religious.",
+      "Thomas Lincoln moved his family to Indiana in 1816.",
+      "Dennis Hanks, a cousin of Abraham Lincoln, taught him to read, write, and cipher.",
+      "Lincoln's first reading book was Webster's Speller.",
+      "Lincoln's mother died when he was young, and he grieved deeply.",
+      "Lincoln's step-mother, Sarah Johnston, provided care and affection.",
+      "Lincoln attended schools taught by Azel Dorsey and Andrew Crawford.",
+      "Lincoln wrote compositions against cruelty to animals.",
+      "At age 14, Lincoln wrote \"Abraham Lincoln his hand and pen. he will be good but god knows When\".",
+      "Lincoln borrowed Weems's Life of Washington and damaged it in the rain.",
+      "Lincoln worked for Josiah Crawford to pay for the damaged book.",
+      "Lincoln's sister, Sarah, died a year after marrying Aaron Grigsby.",
+      "Lincoln earned his first dollar by taking passengers to a steamer.",
+      "Lincoln had a premonition that he would become President of the United States.",
+      "In March 1828, Lincoln worked for Mr. Gentry and accompanied his son to New Orleans.",
+      "Lincoln explained astronomical concepts to a young girl.",
+      "In 1830, the Lincoln family moved to Illinois.",
+      "Lincoln helped build a log cabin and split rails.",
+      "In 1831, Lincoln worked for Denton Offutt and traveled to New Orleans.",
+      "Lincoln invented and patented a device for navigating western rivers.",
+      "Lincoln worked as a clerk in Offutt's store in New Salem.",
+      "Lincoln studied English grammar and debated in clubs.",
+      "Lincoln was known for his athletic skills and honesty.",
+      "Lincoln performed his first official act as a clerk at an election in 1831.",
+      "Lincoln wrote a sketch of himself at the request of Hon. Jesse W. Fell."
+    ],
+    "temporal_details": {
+      "date": "1809-02-12",
+      "time": "00:00"
+    },
+    "tone": "objective",
+    "source_id": "gutenberg_14004",
+    "source_type": "Book"
+  },
+  {
+    "event": "election_1860",
+    "author": "None",
+    "claims": [
+      "Abraham Lincoln is revered by many Americans as the preserver of their commonwealth.",
+      "Lincoln was misunderstood and underrated in his lifetime.",
+      "Lincoln was born on February 12, 1809, in a log cabin in Kentucky.",
+      "When Lincoln was nominated for the Presidency he said his early life could be condensed into a single sentence from Gray's 'Elegy': 'The short and simple annals of the poor.'",
+      "Lincoln's mother was the illegitimate daughter of a Virginian gentleman, from whom he believed he inherited his mental qualities."
+    ],
+    "temporal_details": {
+      "date": "1860-11-06",
+      "time": "00:00"
+    },
+    "tone": "reverent",
+    "source_id": "gutenberg_18379",
+    "source_type": "Book"
+  },
+  {
+    "event": "fort_sumter",
+    "author": "None",
+    "claims": [
+      "The President of the United States is an elected officer elected by popular vote.",
+      "The President combines the functions of the King and Prime Minister but cannot sit or speak in the Legislature.",
+      "The executive and legislative powers in America were purposely constituted to be independent of each other.",
+      "President and Congress are strictly fettered in their action by the Constitution.",
+      "The Constitution defines the form of government and certain liberties of the subject, and can only be altered by a process requiring consent of a great majority in Congress or legislatures of the States.",
+      "The Legislature of a State is not subordinate to the Congress of the United States, nor is a State Governor an officer under the President.",
+      "The State authority and the Union or Federal authority work side by side in separate spheres, each subject to Constitutional restrictions, but each in its own sphere supreme.",
+      "The State authority is powerless to make peace or war or to impose customs duties, for those are Federal matters.",
+      "The Union authority is powerless to punish ordinary crime, to promote education, or to regulate factories where a State authority has been constituted.",
+      "The Union authority was able to prohibit the importation of slaves from abroad after the end of 1807, but had no power to abolish slavery itself in any of the States.",
+      "In the Senate each State has two members, while in the House of Representatives the people of the whole Union are represented according to population.",
+      "Legislation through Congress requires the concurrence of the majority of American citizens and the majority of the several States.",
+      "The Union possesses Territories not included in any State, and in the Territories the Federal authority has always been supreme and uncontrolled in all matters.",
+      "Congress settles the time of admission of Territories as States and can make conditions regarding their Constitutions as States.",
+      "When admitted as States they have the full rights of the original States.",
+      "It lies with Congress to determine whether slavery should be lawful or not in the Territories.",
+      "When the Constitution of the Union was being settled, slavery was the subject of most careful compromise.",
+      "In 1803, President Jefferson bought from Napoleon I. the great expanse of country west of the Mississippi called Louisiana.",
+      "In 1819 Florida was purchased from Spain, and that country at the same time abandoned its claims to a strip of coastland which now forms the sea-board of Alabama and Mississippi.",
+      "From 1780 onwards there was a constant movement of the poorer class and of younger sons of rich men from the great State of Virginia and to some extent from the Carolinas into Kentucky and Tennessee.",
+      "The expansion of the great plantation interest in the further South carried with it the whole plantation system.",
+      "The energies of the people in the Northern States had at first been to great extent absorbed by sea-going pursuits and the subjugation of their own rugged soil.",
+      "The annexation by agreement in 1846 of the Republic of Texas claimed a considerable territory reaching north-west to the upper portions of the Arkansas River.",
+      "The apportionment to the Union by a delimitation treaty with Great Britain in 1846 of the Oregon Territory included roughly the State of that name and the rest of the basin of the Columbia River up to the present frontier.",
+      "The conquest from Mexico in 1848 of California and a vast mountainous tract at the back of it occurred.",
+      "The purchase from Mexico of a small frontier strip occurred in 1853.",
+      "When the Constitution had been formed and Washington had been inaugurated as the first President, a conflict arose between Alexander Hamilton and Thomas Jefferson.",
+      "Alexander Hamilton organised the machinery of government and helped his chief to preserve a strong foreign policy.",
+      "The United States could hardly have endured for many years without the passionate sense of the need of government and the genius for actual administration with which Hamilton set the new nation on its way.",
+      "The Democratic party claims to descend from Jefferson's party in unbroken apostolic succession.",
+      "The rapid and complete triumph of Jefferson's party signifies a very definite and lasting conversion of the main stream of American public opinion to what may be called the sane element in the principles of the French Revolution.",
+      "Jefferson asserted an intense belief in the value of freedom, in the equal claim of men of all conditions to the consideration of government, and in the supreme importance to government of the consenting mind of the governed.",
+      "Jefferson was a man who had worked unwearyingly in Virginia at sound reforms, establishing religious toleration, reforming a preposterous land law, seeking to provide education for the poor, striving unsuccessfully for a sensible scheme of gradual emancipation of the slaves.",
+      "The propaganda which Jefferson carried on when the Constitution had been adopted was on behalf of a principle which he had enunciated as a younger man when he drafted the Declaration of Independence.",
+      "Jefferson contended for a principle of which one elementary application is the law which makes murder the same crime whatever be the relative positions of the murderer and the murdered man.",
+      "The boundless space and untrammelled conditions of the new world made liberty and equality in some directions highly attainable ideals.",
+      "Jefferson imparted to the very recent historical origin of his country, and his followers imparted to its material conditions, a certain element of poetry and the felt presence of a wholesome national ideal.",
+      "The American statesmen of the first generation framed their Constitution as best they could and were not deterred by the scruples which they felt about slavery from effecting a Union between States.",
+      "Many of these men had set their hands in the Declaration of Independence to the most unqualified claim of liberty and equality for all men and proceeded, in the Constitution, to give nineteen years' grace to the African slave trade.",
+      "The British Government had forced several of the American Colonies to permit slavery against their will, and only in 1769 it had vetoed, in the interest of British trade, a Colonial enactment for suppressing the slave trade.",
+      "A Convention of all the Colonies in 1774 unanimously voted that the abolition of domestic slavery is the greatest object of desire in those Colonies where it was unhappily introduced in their infant state.",
+      "Washington, John Adams, Jefferson, Madison, Franklin, and Hamilton were all opponents of slavery.",
+      "In 1784 the North-West Territory was ceded by Virginia to the old Congress of the days before the Union.",
+      "The new Congress abolished the slave trade on the first day on which the Constitution allowed it to do so, that is, on January 1, 1808.",
+      "Seven of the original thirteen States and Vermont had abolished slavery before 1805.",
+      "In 1793 Eli Whitney invented the first machine for cleaning cotton of its seeds.",
+      "In 1820 an enactment was passed by Congress which for thirty-four years thereafter might be regarded as hardly less fundamental than the Constitution itself.",
+      "Missouri was admitted as a slave State, Maine about the same time as a free State; and it was enacted that thereafter in the remainder of the territory that had been bought from France slavery should be unlawful north of latitude 36 degrees 30 minutes, while by tacit agreement permitted south of it.",
+      "The adoption of the Missouri Compromise marks a point from which it became for thirty-four years the express ambition of the principal American statesmen and the tacit object, of every party manager to keep the slavery question from ever becoming again a burning issue in politics.",
+      "The two leaders to whom, as a young politician, Lincoln owed some sort of allegiance were Webster and Clay.",
+      "Daniel Webster devoted his power to the education of the people in a feeling for the nation and for its greatness.",
+      "John Marshall brought a great legal mind of the higher type to the settlement of doubtful points in the Constitution.",
+      "Henry Clay was famed as an architect of compromises.",
+      "John Caldwell Calhoun secured the strength of orthodoxy and fashion to a tone of sentiment and opinion which for a generation held undisputed supremacy in the heart of the South.",
+      "Calhoun foresaw early that the best weapon of the common interest of the slave States lay in the rights which might be claimed for each individual State against the Union.",
+      "In 1830 the doctrine of nullification and secession was discussed in the Senate, and the view of Calhoun was expounded by one Senator Hayne.",
+      "Webster answered him in a speech which he meant should become a popular classic, and which did become so.",
+      "In 1832, in spite of concessions by Congress, a Convention was summoned in South Carolina to nullify the tariff.",
+      "General Andrew Jackson gave the toast, 'Our Federal Union; it must be preserved.'",
+      "The North was thrilled still more than by Webster's oratory, and as not a single other State showed signs of backing South Carolina, it became thenceforth the fixed belief of the North that the Union was recognised as in law indissoluble, as Webster contended it was.",
+      "General Andrew Jackson had won martial fame in fights with Indians and in the celebrated victory over the British forces at New Orleans.",
+      "Jackson resolved to overthrow the ruling class of Virginian country gentlemen and Boston city magnates which seemed to him to control Government, and to call into life a real democracy.",
+      "The Democracy, or Democratic party, has continued in existence ever since, and through most of Lincoln's life ruled America.",
+      "The Democratic party was engaged in combating certain tendencies to Government interference in business.",
+      "Martin Van Buren was a sound economist of what is now called the old school, and on a financial issue he did what few men in his office have done, he deliberately sacrificed his popularity to his principles.",
+      "The Democratic party was and has continued prone to insist upon the restrictions of the Constitution, whether in the interest of individual liberty or of State rights.",
+      "The Democrats would be prone to lay the emphasis upon the Constitution.",
+      "The Whigs had the adherence of the ablest men of the country, and, as an opposition party to a party in power which furnished much ground for criticism, they possessed an attraction for generous youth.",
+      "The Democrats at once, and the Whigs not long after them, created elaborate party machines, on the need of which Jackson insisted as the only means of really giving influence to the common people.",
+      "Jackson began to turn out office holders under the more or less imaginary ruling clique that had held sway, and he was encouraged to extend to the whole country a system which had prevailed in New York and with which Van Buren was too familiar.",
+      "There were now few genuine issues in politics.",
+      "Compromise on vital questions was understood to be the highest statesmanship.",
+      "On January 1, 1831, Garrison published in Boston the first number of the Liberator.",
+      "The Abolitionists goaded Southern politicians to fury and madness, of which the first symptom was their effort to suppress Abolitionist petitions to Congress.",
+      "The Abolitionists educated in their labor of thirty years a school of opinion, not entirely in agreement with them but ready one day to revolt with decision from continued complicity in wrong.",
+      "The Southern people knew that their lives were honorable, their relations with their slaves humane, their responsibility for the existence of slavery amongst them remote.",
+      "It is inherent in slavery that its burden should be most felt precisely by the best minds and strongest characters among the slaves.",
+      "The system abounded in brutalising influences upon a large number of white people who were accessory to it, and notoriously it degraded the poor or mean whites, for whom it left no industrial opening, and among whom it caused work to be despised.",
+      "The connection between slavery and politics was this; as population slowly grew in the South, and as the land in the older States became to some extent exhausted, the desire for fresh territory in which cultivation by slaves could flourish became stronger and stronger.",
+      "The quarrel grew not out of any steady opposition between North and South, but out of the habitual domination of the country by the South and the long-continued submission of the North to that domination.",
+      "The prevailing attitude of the Northern to the Southern politicians was that of truckling.",
+      "In the years from 1830 till some time after the death of Lincoln, America made those contributions to the literature of our common language which, though neither her first nor her last, seemed likely to be most permanently valued."
+    ],
+    "temporal_details": {
+      "date": "1789-01-01",
+      "time": "00:00"
+    },
+    "tone": "objective",
+    "source_id": "gutenberg_18379",
+    "source_type": "Book"
+  },
+  {
+    "event": "gettysburg",
+    "author": "None",
+    "claims": [
+      "Abraham Lincoln is revered by many Americans as the preserver of their commonwealth.",
+      "Lincoln was born on February 12, 1809, in a log cabin in Kentucky.",
+      "Lincoln's early life can be condensed into a single sentence: 'The short and simple annals of the poor.'",
+      "Lincoln lacked interest in ancestry but felt sadness regarding his nearer progenitors.",
+      "Lincoln's stepmother, Sarah Bush Lincoln, encouraged him in his early studies."
+    ],
+    "temporal_details": {
+      "date": "1809-02-12",
+      "time": "00:00"
+    },
+    "tone": "objective",
+    "source_id": "gutenberg_18379",
+    "source_type": "Book"
+  },
+  {
+    "event": "second_inaugural",
+    "author": "None",
+    "claims": [
+      "The President of the United States is an elected officer chosen by popular vote.",
+      "The President combines the functions of a King and a Prime Minister during their four-year term.",
+      "Neither the President nor their ministers can sit or speak in the Legislature, nor can the President dissolve the Legislature.",
+      "The President has a veto on Acts of Congress, which can be overridden by a large majority in both Houses.",
+      "Executive and legislative powers in America were purposely constituted to be independent of each other to a degree unknown in England."
+    ],
+    "temporal_details": {
+      "date": "1789-01-01",
+      "time": "00:00"
+    },
+    "tone": "objective",
+    "source_id": "gutenberg_18379",
+    "source_type": "Book"
+  },
+  {
+    "event": "assassination",
+    "author": "None",
+    "claims": [
+      "Abraham Lincoln is revered by many Americans as the preserver of their commonwealth.",
+      "Lincoln's reverence has grown over time with accumulating evidence.",
+      "Lincoln died with every circumstance of tragedy, yet it is not the accident of his death but the purpose of his life that is remembered.",
+      "Lincoln was born on February 12, 1809, in a log cabin on a barren farm in Kentucky.",
+      "Lincoln's early life can be condensed into a single sentence: 'The short and simple annals of the poor.'"
+    ],
+    "temporal_details": {
+      "date": "1809-02-12",
+      "time": "00:00"
+    },
+    "tone": "reverent",
+    "source_id": "gutenberg_18379",
+    "source_type": "Book"
+  }
+]
