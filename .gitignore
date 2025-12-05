@@ -8,10 +8,8 @@ venv/
 .pytest_cache/
 
 # Data (Ignore raw large files, keep structure)
-data/raw/*
+data/raw/
 !data/raw/.gitkeep
-data/processed/*
-!data/processed/.gitkeep
 data/extracted/*
 !data/extracted/.gitkeep
 data/evaluation/*
